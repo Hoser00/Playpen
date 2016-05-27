@@ -1,0 +1,19 @@
+current directory: /home/jpday/www/sample/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.4/ext/byebug
+/usr/local/bin/ruby -r ./siteconf20160525-20472-1sktr09.rb extconf.rb
+creating Makefile
+
+current directory: /home/jpday/www/sample/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.4/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/jpday/www/sample/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.4/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling threads.c
+compiling locker.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/jpday/www/sample/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.4/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20160525-20472-1w1683/byebug
