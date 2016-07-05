@@ -1,7 +1,8 @@
-Playpen README
+Sample README
 
 This repository will be used to test methods of working with branches to develop apps in collaboration with others.
 
-The Playpen master is located at https://github.com/Hoser00/Playpen.git. The development branch is currently found at http://10.0.0.31/sample on the LAN. The main user branch is located at http://10.0.0.31/~jpday/sample. 
+The Sample master is located at https://github.com/Hoser00/sample.git. The current working copy is Working1
 
-The whole point of this exercise is to find out what I'm doing wrong. Scream NOOB all you want.
+The sample project is forked on https://github.com/Calysta/sample.git, and can be seen as https://bioinfo.calysta.com/sample 
+or 10.0.0.31/sample on the LAN. The main user branch is located at http://10.0.0.31/~jpday/sample. 
